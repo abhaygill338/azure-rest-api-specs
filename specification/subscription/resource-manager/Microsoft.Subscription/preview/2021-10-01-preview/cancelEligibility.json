@@ -50,7 +50,7 @@
             "$ref": "./examples/cancelEligibilitySubscription.json"
           }
         },
-        "description": "The operation to check whether the subscription is eligibile to cancel.",
+        "description": "The operation to check whether the subscription is eligible to cancel.",
         "parameters": [
           {
             "$ref": "#/parameters/apiVersionParameter"
